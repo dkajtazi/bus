@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bus Reservation</string>
+    <string name="switch_button">Switch Button</string>
+    <string-array name="cities">
+        <item>Prishtine</item>
+        <item>Mitrovice</item>
+        <item>Peje</item>
+        <item>Prizren</item>
+        <item>Ferizaj</item>
+        <item>Gjilan</item>
+        <item>Gjakove</item>
+    </string-array>
+</resources>
